@@ -4,3 +4,7 @@ pico projects all
 
 https://microkontroller.ru/tag/raspberry-pi-pico/
 
+до разборки
+гп0 оранж гп1 белооранж - вайфай
+гп4 зелен гп5 белозелен - ГПС
+гп26 белооранж гп27 белосин - дисплей 1637
